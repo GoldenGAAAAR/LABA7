@@ -1,4 +1,4 @@
-// Copyright 2022 pvelp
+// Copyright 2022 Your Name <your_email>
 #include "json_storage.hpp"
 #include <fstream>
 #include <sstream>
